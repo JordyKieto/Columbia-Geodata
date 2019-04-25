@@ -1,6 +1,8 @@
 class DataRow():
     def __init__(self):
         self.data = {
+            11.0: None,
+            12.0: None,
             21.0: None,
             22.0: None,
             23.0: None,
